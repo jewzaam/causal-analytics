@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+*.png
 .env
 data/Vangogh.pdf
 RAG*.ipynb
